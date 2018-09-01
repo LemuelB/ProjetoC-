@@ -1,0 +1,7 @@
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\bin\Debug\Projeto C.exe.config
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\bin\Debug\Projeto C.exe
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\bin\Debug\Projeto C.pdb
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\obj\Debug\Projeto C.csprojAssemblyReference.cache
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\obj\Debug\Projeto C.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\obj\Debug\Projeto C.exe
+C:\Users\Lemuel\Desktop\Projeto C\Projeto C\obj\Debug\Projeto C.pdb
